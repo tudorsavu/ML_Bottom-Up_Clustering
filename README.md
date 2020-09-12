@@ -12,6 +12,4 @@ The user will be able to plot points on the graph using the mouse or use the ran
 After plotting the points and running the algorithm, you can use the show button which will change the colour of the points sequentially, based on which cluster contains it.
 Also, the program can plot the dendrogram of the given dataset.
 
-![sample1](sample1.jpg)
-![sample2](sample2.jpg)
-![sample3](sample3.jpg)
+![sample1](sample1.JPG)
