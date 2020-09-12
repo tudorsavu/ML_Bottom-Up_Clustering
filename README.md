@@ -13,3 +13,8 @@ After plotting the points and running the algorithm, you can use the show button
 Also, the program can plot the dendrogram of the given dataset.
 
 ![sample1](sample1.JPG)
+
+![sample2](sample2.jpg)
+
+![sample3](sample3.jpg)
+
