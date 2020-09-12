@@ -14,7 +14,7 @@ Also, the program can plot the dendrogram of the given dataset.
 
 ![sample1](sample1.JPG)
 
-![sample2](sample2.jpg)
+![sample2](sample2.JPG)
 
-![sample3](sample3.jpg)
+![sample3](sample3.JPG)
 
